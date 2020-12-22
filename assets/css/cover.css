@@ -108,3 +108,31 @@ body {
 .mastfoot {
   color: rgba(255, 255, 255, .5);
 }
+
+#landing.text-center {
+background: url(../img/polka_dot.jpg) no-repeat center center fixed;
+-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-twitter {
+  color: white;
+}
+.fa-linkedin {
+  color: white;
+}
+.fa-github {
+  color: white;
+}
